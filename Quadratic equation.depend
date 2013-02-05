@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1358254078 source:c:\users\daniel\desktop\cpp\quadratic equation\quadratic.cpp
+	"quadratic.h"
+	<math.h>
+	<iostream>
+	<stdlib.h>
+
+1358254071 c:\users\daniel\desktop\cpp\quadratic equation\quadratic.h
+
+1358253754 source:c:\users\daniel\desktop\cpp\quadratic equation\main.cpp
+	<iostream>
+	"quadratic.h"
+
